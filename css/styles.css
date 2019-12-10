@@ -42,6 +42,10 @@ h1{
   margin:5% 3% 5% 0;
 }
 
+.title-image{
+  transform: rotate(20deg);
+}
+
 /* Features  */
 #features{
   padding: 7% 15%;
