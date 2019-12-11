@@ -19,6 +19,12 @@ h2{
   line-height: 1.5;
 }
 
+h3{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
 .container-fluid{
   padding: 3% 15%;
 }
@@ -98,9 +104,20 @@ h2{
 #press{
   background-color: #62d2a2;
   text-align: center;
+  padding-bottom: 3%;
 }
 
 .press-logo{
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing */
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+
+.pricing-column{
+  padding:3% 2%;
 }
