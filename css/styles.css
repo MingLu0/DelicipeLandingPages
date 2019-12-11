@@ -126,7 +126,7 @@ h3{
   padding:3% 2%;
 }
 
-@media(max-width:1055px){
+@media(max-width:1100px){
   #title{
     text-align: center;
   }
@@ -135,4 +135,23 @@ h3{
     position: static;
     transform:rotate(0);
   }
+}
+
+/* Call To Action */
+#cta{
+  background-color: #62d2a2;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+/* Footer */
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+
+}
+
+.footer-icon{
+  margin: 20px 10px;
 }
